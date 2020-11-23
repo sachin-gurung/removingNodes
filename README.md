@@ -1,0 +1,2 @@
+# removingNodes
+Removing nodes (practice)
